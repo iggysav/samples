@@ -1,6 +1,6 @@
 FROM eclipse/ubuntu_jdk8
 
-MAINTAINER IggySav
+LABEL maintainer "IggySav"
 
 ADD https://www.crushftp.com/early9/CrushFTP9_PC.zip /var/opt/ 
 
